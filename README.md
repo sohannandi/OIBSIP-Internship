@@ -1,7 +1,7 @@
 # OIBSIP — Oasis Infobyte Data Analytics Internship Projects
 
-> **Intern:** _[Your Full Name]_ · **Track:** Data Analytics · **Organisation:** Oasis Infobyte
-> _GitHub: [github.com/your-username/OIBSIP](https://github.com/your-username/OIBSIP) ·
+> **Intern:** _Sohan Nandi_ · **Track:** Data Analytics · **Organisation:** Oasis Infobyte
+> _GitHub: https://github.com/sohannandi/OIBSIP-Internship ·
 > LinkedIn: https://www.linkedin.com/in/sohan-nandi-bb8ba1439/
 >
 > _Replace the placeholders above with your own details before publishing._
