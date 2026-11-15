@@ -1,7 +1,7 @@
 # OIBSIP — Oasis Infobyte Data Analytics Internship Projects
 
 > **Intern:** _Sohan Nandi_ · **Track:** Data Analytics · **Organisation:** Oasis Infobyte
-> _GitHub: https://github.com/sohannandi/OIBSIP-Internship ·
+> · GitHub: https://github.com/sohannandi/OIBSIP-Internship ·
 > LinkedIn: https://www.linkedin.com/in/sohan-nandi-bb8ba1439/
 >
 > _Replace the placeholders above with your own details before publishing._
