@@ -2,7 +2,7 @@
 
 > **Intern:** _[Your Full Name]_ · **Track:** Data Analytics · **Organisation:** Oasis Infobyte
 > _GitHub: [github.com/your-username/OIBSIP](https://github.com/your-username/OIBSIP) ·
-> LinkedIn: [linkedin.com/in/your-linkedin-id]((https://www.linkedin.com/in/sohan-nandi-bb8ba1439/))_
+> LinkedIn: [https://www.linkedin.com/in/sohan-nandi-bb8ba1439/]
 >
 > _Replace the placeholders above with your own details before publishing._
 
