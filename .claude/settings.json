@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/sohan/OneDrive/Desktop/**)",
+      "PowerShell(python --version)",
+      "PowerShell(python -c \"import pandas, numpy, matplotlib, seaborn, sklearn; print\\('pandas', pandas.__version__\\); print\\('numpy', numpy.__version__\\); print\\('matplotlib', matplotlib.__version__\\); print\\('seaborn', seaborn.__version__\\); print\\('sklearn', sklearn.__version__\\)\")",
+      "PowerShell(python -c \"import jupyter, nbformat, nbconvert, papermill; print\\('jupyter ok'\\); print\\('nbformat', nbformat.__version__\\)\" 2>&1)",
+      "PowerShell(python -m pip --version)",
+      "PowerShell(try { $r = Invoke-WebRequest -Uri \"https://archive.ics.uci.edu/static/public/352/online+retail.zip\" -Method Head -TimeoutSec 25 -UseBasicParsing; Write-Output \"UCI OK $\\($r.StatusCode\\) $\\($r.Headers.'Content-Length'\\)\" } catch { Write-Output \"UCI FAIL: $\\($_.Exception.Message\\)\" })",
+      "PowerShell(python -c \"import jupyter, nbformat, nbconvert; print\\('jupyter', jupyter.__version__ if hasattr\\(jupyter, '__version__'\\) else 'ok'\\); print\\('nbformat', nbformat.__version__ if hasattr\\(nbformat, '__version__'\\) else 'ok'\\); print\\('nbconvert', nbconvert.__version__ if hasattr\\(nbconvert, '__version__'\\) else 'ok'\\)\")"
+    ]
+  }
+}

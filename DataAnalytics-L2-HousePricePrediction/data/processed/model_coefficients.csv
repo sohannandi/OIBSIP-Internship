@@ -1,0 +1,69 @@
+feature,coefficient,abs_coefficient
+Neighborhood=GrnHill,115985.7844,115985.7844
+Neighborhood=StoneBr,56675.1071,56675.1071
+Neighborhood=NoRidge,42300.8156,42300.8156
+KitchenQual=TA,-41134.4201,41134.4201
+KitchenQual=Fa,-39318.3235,39318.3235
+KitchenQual=Gd,-37123.778,37123.778
+BldgType=Twnhs,-36456.2656,36456.2656
+GrLivArea (standardised),34004.8301,34004.8301
+ExterQual=Fa,-31633.6649,31633.6649
+ExterQual=TA,-29979.6621,29979.6621
+Neighborhood=NridgHt,29762.6734,29762.6734
+GarageType=None,29472.0836,29472.0836
+BldgType=TwnhsE,-28186.1732,28186.1732
+ExterQual=Gd,-28124.0026,28124.0026
+HeatingQC=Po,-25921.7067,25921.7067
+HouseStyle=SFoyer,24205.4455,24205.4455
+Neighborhood=Greens,23827.1921,23827.1921
+Neighborhood=Crawfor,21331.6654,21331.6654
+GarageType=Attchd,19089.6018,19089.6018
+BldgType=Duplex,-18999.3547,18999.3547
+Neighborhood=OldTown,-16695.0274,16695.0274
+OverallQual (standardised),16473.0558,16473.0558
+GarageType=Detchd,16092.5229,16092.5229
+GarageType=BuiltIn,15716.5516,15716.5516
+GarageType=Basment,15491.1402,15491.1402
+HouseStyle=1Story,14862.5329,14862.5329
+Neighborhood=Gilbert,-13888.9906,13888.9906
+Neighborhood=SawyerW,-12511.2548,12511.2548
+Neighborhood=NWAmes,-12349.0431,12349.0431
+Neighborhood=Veenker,11701.1266,11701.1266
+Neighborhood=Edwards,-11258.0509,11258.0509
+Neighborhood=IDOTRR,-10902.5823,10902.5823
+HouseStyle=2.5Fin,-10869.813,10869.813
+HouseStyle=SLvl,10046.3967,10046.3967
+Neighborhood=NPkVill,10002.2826,10002.2826
+GarageType=CarPort,9862.4244,9862.4244
+Neighborhood=Mitchel,-9788.1253,9788.1253
+GarageCars (standardised),9081.505,9081.505
+Neighborhood=BrDale,9067.203,9067.203
+Neighborhood=SWISU,-8647.0462,8647.0462
+Neighborhood=NAmes,-8218.8449,8218.8449
+Neighborhood=MeadowV,8055.3316,8055.3316
+Neighborhood=Sawyer,-7907.1166,7907.1166
+HouseStyle=1.5Unf,7846.6928,7846.6928
+Neighborhood=CollgCr,-7692.1085,7692.1085
+YearBuilt (standardised),7479.7097,7479.7097
+Neighborhood=ClearCr,6873.9051,6873.9051
+Neighborhood=Somerst,6868.1813,6868.1813
+1stFlrSF (standardised),-6818.8833,6818.8833
+CentralAir=Y,6768.6946,6768.6946
+HeatingQC=Fa,-6241.286,6241.286
+TotalBsmtSF (standardised),5683.3588,5683.3588
+BldgType=2fmCon,-5554.1947,5554.1947
+TotRmsAbvGrd (standardised),-5210.0993,5210.0993
+HeatingQC=TA,-5042.3972,5042.3972
+LotArea (standardised),4494.5752,4494.5752
+YearRemod/Add (standardised),3878.6218,3878.6218
+HouseStyle=2Story,-3564.8536,3564.8536
+Neighborhood=BrkSide,-2864.4642,2864.4642
+PavedDrive=Y,2838.9427,2838.9427
+Neighborhood=Blueste,2709.7551,2709.7551
+Neighborhood=Timber,2558.4819,2558.4819
+HeatingQC=Gd,-2490.1109,2490.1109
+Neighborhood=Landmrk,2032.9283,2032.9283
+PavedDrive=P,1628.4989,1628.4989
+GarageArea (standardised),640.4428,640.4428
+HouseStyle=2.5Unf,244.7384,244.7384
+FullBath (standardised),13.7354,13.7354

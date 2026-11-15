@@ -1,0 +1,52 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+# Keep the executed notebooks, but strip any per-user metadata from them.
+.ipynb_checkpoints
+
+# --- Secrets / environment ---
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.yml
+
+# --- Local scratch: downloaded archives and extracted source datasets ---
+# The datasets live in each project's data/raw/ folder. Downloaded archives
+# and intermediate extractions are not committed.
+dl/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# --- Large raw data ---
+# The three raw datasets used by this repo are small enough to commit, but if
+# you swap in a larger file, uncomment the rule below and keep the project
+# reproducible via the download instructions in each project README.
+# data/raw/*.csv
+# data/raw/*.xlsx
